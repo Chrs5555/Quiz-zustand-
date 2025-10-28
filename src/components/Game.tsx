@@ -1,5 +1,5 @@
 import {Card, IconButton, List, ListItem, ListItemButton, ListItemText, Stack, Typography} from "@mui/material";
-import  { type Question as QuestionType } from "../types";
+import { type Question as QuestionType } from "../types";
 import { useQuestionsStore } from "../store/questions";
 import { ArrowBackIosNew, ArrowForwardIos } from "@mui/icons-material";
 import { Footer } from "./Footer";
