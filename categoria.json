@@ -1,0 +1,251 @@
+{
+    "cine": [
+      {
+        "id": 1,
+        "pregunta": "¿Quién dirigió la trilogía original de 'El Señor de los Anillos'?",
+        "respuestas": ["Peter Jackson", "James Cameron", "Ridley Scott", "Christopher Nolan"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 2,
+        "pregunta": "¿En qué año se estrenó la primera película de 'Star Wars'?",
+        "respuestas": ["1975", "1977", "1980", "1983"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 3,
+        "pregunta": "¿Qué actor interpretó al 'Joker' en 'The Dark Knight' (2008)?",
+        "respuestas": ["Heath Ledger", "Joaquin Phoenix", "Jack Nicholson", "Jared Leto"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 4,
+        "pregunta": "¿Cuál fue la primera película en ganar 11 premios Óscar?",
+        "respuestas": ["Ben-Hur", "Titanic", "El Señor de los Anillos: El Retorno del Rey", "Lo que el viento se llevó"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 5,
+        "pregunta": "¿Qué película de ciencia ficción popularizó la frase 'Hasta la vista, baby'?",
+        "respuestas": ["Terminator 2", "RoboCop", "Matrix", "Alien"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 6,
+        "pregunta": "¿Quién dirigió 'Pulp Fiction'?",
+        "respuestas": ["Martin Scorsese", "Quentin Tarantino", "Steven Spielberg", "Guy Ritchie"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 7,
+        "pregunta": "¿Qué película ganó el Óscar a Mejor Película en 2020?",
+        "respuestas": ["1917", "Joker", "Parasite", "Once Upon a Time in Hollywood"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 8,
+        "pregunta": "¿Cuál fue la primera película de Pixar?",
+        "respuestas": ["Monsters Inc.", "Toy Story", "Buscando a Nemo", "Bichos"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 9,
+        "pregunta": "¿Qué actor ha interpretado a James Bond en más películas?",
+        "respuestas": ["Sean Connery", "Roger Moore", "Pierce Brosnan", "Daniel Craig"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 10,
+        "pregunta": "¿Qué película introdujo a Hannibal Lecter?",
+        "respuestas": ["El Silencio de los Inocentes", "Hannibal", "Dragón Rojo", "Manhunter"],
+        "respuestaCorrecta": 3
+      }
+    ],
+    "musica": [
+      {
+        "id": 11,
+        "pregunta": "¿Quién es conocido como el 'Rey del Pop'?",
+        "respuestas": ["Freddie Mercury", "Elvis Presley", "Michael Jackson", "Prince"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 12,
+        "pregunta": "¿Cuál es el álbum más vendido de la historia?",
+        "respuestas": ["Back in Black - AC/DC", "Thriller - Michael Jackson", "The Dark Side of the Moon - Pink Floyd", "Abbey Road - The Beatles"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 13,
+        "pregunta": "¿Qué compositor es famoso por su Novena Sinfonía?",
+        "respuestas": ["Mozart", "Beethoven", "Bach", "Tchaikovsky"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 14,
+        "pregunta": "¿Qué banda creó el álbum 'The Wall'?",
+        "respuestas": ["Pink Floyd", "The Rolling Stones", "The Beatles", "Queen"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 15,
+        "pregunta": "¿Qué cantante compuso la canción 'Like a Virgin'?",
+        "respuestas": ["Britney Spears", "Madonna", "Lady Gaga", "Cyndi Lauper"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 16,
+        "pregunta": "¿En qué año se separaron oficialmente The Beatles?",
+        "respuestas": ["1969", "1970", "1971", "1973"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 17,
+        "pregunta": "¿Quién compuso la famosa canción 'Bohemian Rhapsody'?",
+        "respuestas": ["Freddie Mercury", "Brian May", "John Deacon", "Roger Taylor"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 18,
+        "pregunta": "¿Cuál es el nombre verdadero de 'Shakira'?",
+        "respuestas": ["Shakira Isabel Mebarak Ripoll", "Shakira Cristina Pérez López", "Shakira Gabriela Torres Ruiz", "Shakira Elena Jiménez"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 19,
+        "pregunta": "¿De qué país es originaria la banda de rock 'AC/DC'?",
+        "respuestas": ["Reino Unido", "Estados Unidos", "Australia", "Canadá"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 20,
+        "pregunta": "¿Qué artista popularizó la canción 'Imagine'?",
+        "respuestas": ["Paul McCartney", "John Lennon", "George Harrison", "Elton John"],
+        "respuestaCorrecta": 1
+      }
+    ],
+    "peruana": [
+      {
+        "id": 21,
+        "pregunta": "¿En qué departamento se encuentra la ciudadela de Chan Chan?",
+        "respuestas": ["Cusco", "La Libertad", "Arequipa", "Lambayeque"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 22,
+        "pregunta": "¿Cuál es el plato típico considerado patrimonio cultural del Perú?",
+        "respuestas": ["Lomo Saltado", "Ají de Gallina", "Ceviche", "Pachamanca"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 23,
+        "pregunta": "¿Qué cultura construyó las Líneas de Nazca?",
+        "respuestas": ["Paracas", "Nazca", "Mochica", "Wari"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 24,
+        "pregunta": "¿Qué festividad se celebra en honor a la Virgen de la Candelaria?",
+        "respuestas": ["Puno", "Cusco", "Ayacucho", "Arequipa"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 25,
+        "pregunta": "¿Cuál es la bebida nacional del Perú?",
+        "respuestas": ["Chicha morada", "Pisco Sour", "Mate de coca", "Inca Kola"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 26,
+        "pregunta": "¿Qué cultura desarrolló la ciudadela de Kuelap?",
+        "respuestas": ["Inca", "Moche", "Chachapoyas", "Nazca"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 27,
+        "pregunta": "¿Qué instrumento musical es típico de la sierra peruana?",
+        "respuestas": ["Charango", "Cajón", "Quena", "Zampoña"],
+        "respuestaCorrecta": 3
+      },
+      {
+        "id": 28,
+        "pregunta": "¿Qué escritor peruano ganó el Premio Nobel de Literatura en 2010?",
+        "respuestas": ["César Vallejo", "Mario Vargas Llosa", "José María Arguedas", "Alfredo Bryce Echenique"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 29,
+        "pregunta": "¿Qué ciudad peruana es conocida como la 'Ciudad Blanca'?",
+        "respuestas": ["Cusco", "Trujillo", "Arequipa", "Tacna"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 30,
+        "pregunta": "¿Qué región del Perú es famosa por la danza de las tijeras?",
+        "respuestas": ["Ayacucho", "Puno", "Piura", "Huancavelica"],
+        "respuestaCorrecta": 3
+      }
+    ],
+    "historia": [
+      {
+        "id": 31,
+        "pregunta": "¿En qué año cayó el Imperio Romano de Occidente?",
+        "respuestas": ["395 d.C.", "410 d.C.", "476 d.C.", "500 d.C."],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 32,
+        "pregunta": "¿Quién fue el líder militar que cruzó los Alpes con elefantes?",
+        "respuestas": ["Alejandro Magno", "Hannibal Barca", "Julio César", "Atila el Huno"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 33,
+        "pregunta": "¿Cuál fue la principal causa de la Primera Guerra Mundial?",
+        "respuestas": ["La Revolución Rusa", "El asesinato del archiduque Francisco Fernando", "El Tratado de Versalles", "La crisis económica"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 34,
+        "pregunta": "¿Qué civilización construyó las pirámides de Giza?",
+        "respuestas": ["Mesopotámica", "Egipcia", "Maya", "Azteca"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 35,
+        "pregunta": "¿Quién fue el primer emperador romano?",
+        "respuestas": ["Julio César", "Nerón", "Augusto", "Trajano"],
+        "respuestaCorrecta": 2
+      },
+      {
+        "id": 36,
+        "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+        "respuestas": ["1937", "1939", "1941", "1945"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 37,
+        "pregunta": "¿Qué tratado puso fin a la Primera Guerra Mundial?",
+        "respuestas": ["Tratado de París", "Tratado de Versalles", "Tratado de Utrecht", "Tratado de Viena"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 38,
+        "pregunta": "¿Quién fue conocido como el 'Padre de la Historia'?",
+        "respuestas": ["Heródoto", "Sócrates", "Platón", "Tucídides"],
+        "respuestaCorrecta": 0
+      },
+      {
+        "id": 39,
+        "pregunta": "¿Qué país fue el primero en llegar a la Luna?",
+        "respuestas": ["Unión Soviética", "Estados Unidos", "China", "Alemania"],
+        "respuestaCorrecta": 1
+      },
+      {
+        "id": 40,
+        "pregunta": "¿Quién lideró la independencia de la India?",
+        "respuestas": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Indira Gandhi"],
+        "respuestaCorrecta": 0
+      }
+    ]
+  }
+  
