@@ -2,6 +2,7 @@ import {Card, IconButton, List, ListItem, ListItemButton, ListItemText, Stack, T
 import  { type Question as QuestionType } from "../types";
 import { useQuestionsStore } from "../store/questions";
 import { ArrowBackIosNew, ArrowForwardIos } from "@mui/icons-material";
+import { Footer } from "./Footer";
 
 
 
@@ -30,7 +31,7 @@ const Question = ({info} : {info: QuestionType}) =>{
     
     return (
         <Card variant="outlined" sx={{bgcolor:'#222', p:2, textAlign:'left', marginTop: 4}}>
-            <Typography variant="h5">
+            <Typography className="text-[#f7cf2f]" variant="h5">
                 {info.pregunta}
             </Typography>
             <List sx={{bgcolor:'#333'}}>
@@ -40,7 +41,7 @@ const Question = ({info} : {info: QuestionType}) =>{
                             disabled={info.userSelectedAnswer != null}
                             onClick={createHandleClick(index)}
                             sx={{backgroundColor: getBackgroundColor(info, index)}}>
-                            <ListItemText primary={respuesta} sx={{textAlign:'center'}}/>
+                            <ListItemText className="text-white" primary={respuesta} sx={{textAlign:'center'}}/>
                         </ListItemButton>
                     </ListItem>
                 ))}
@@ -71,6 +72,7 @@ export const Game = () => {
                 </IconButton>
             </Stack>
             <Question info={infoPregunta} />
+            <Footer/>
         </>
     )
 }

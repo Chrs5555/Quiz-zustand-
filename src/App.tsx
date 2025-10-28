@@ -18,7 +18,7 @@ function App() {
   }, []); 
 
   return (
-    <main className='mt-12'>
+    <main className='mt-5'>
       <Container maxWidth='sm' >
         <Stack direction='row' gap={2} alignItems='center' justifyContent='center' >
           <img src="/image.png" alt="quiz" className='w-24 h-24 rounded-full' />
